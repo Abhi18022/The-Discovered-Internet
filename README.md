@@ -7,15 +7,21 @@ If you have knowledge of others, please add to the list!
 # Tor 
 https://torproject.org - Tor (The Onion Router) is a well known anonymity network that disguises your identity by routing your web traffic through a worldwide series of relays and nodes. It also gives you the ability to host "Tor hidden services" built on top of the network, known as ".onion sites."
 # I2P 
-https://geti2p.net 
+https://geti2p.net I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
+I2P is used by many people who care about their privacy: activists, oppressed people, journalists and whistleblowers, as well as the average person.
+No network can be "perfectly anonymous". The continued goal of I2P is to make attacks more and more difficult to mount. Its anonymity will get stronger as the size of the network increases and with ongoing academic review.
+I2P is available on desktops, embedded systems (like the Raspberry Pi) and Android phones. Help spread the word! 
 # Freenet 
-https://freenetproject.org
+https://freenetproject.org Freenet is a peer-to-peer platform for censorship-resistant communication and publishing. Freenet Features Browse websites, post on forums, and publish files within Freenet with strong privacy protections.
 # ZeroNet 
-https://zeronet.io
+https://zeronet.io Open, free and uncensorable websites,
+using Bitcoin cryptography and BitTorrent network
 # GNUnet 
-https://gnunet.org/
+https://gnunet.org/ GNUnet is an alternative network stack for building secure, decentralized and privacy-preserving distributed applications. Our goal is to replace the old insecure Internet protocol stack. Starting from an application for secure publication of files, it has grown to include all kinds of basic protocol components and applications towards the creation of a GNU internet.
 # dn42 
-https://dn42.net/Home
+https://dn42.net/Home dn42 is a big dynamic VPN, which employs Internet technologies (BGP, whois database, DNS, etc). Participants connect to each other using network tunnels (GRE, OpenVPN, Tinc, IPsec) and exchange routes thanks to the Border Gateway Protocol. Network addresses are assigned in the 172.20.0.0/14 range and private AS numbers are used (see registry) as well as IPv6 addresses from the ULA-Range (fd00::/8) - see FAQ.
+
+A number of services are provided on the network: see internal (only available from within dn42). Also, dn42 is interconnected with other networks, such as ChaosVPN or some Freifunk networks.
 # Netsukuku (discontinued)
 # Riffle 
 http://resources.infosecinstitute.com/riffle-anonymity-network/
