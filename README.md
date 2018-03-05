@@ -5,14 +5,14 @@ download the software from).
 If you have knowledge of others, please add to the list!
 
 # Tor 
-[Tor](https://torproject.org) - Tor (The Onion Router) is a well known anonymity network that disguises your identity by routing your web traffic through a worldwide series of relays and nodes. It also gives you the ability to host "Tor hidden services" built on top of the network, known as ".onion sites."
+[Tor](https://torproject.org)  (The Onion Router) is a well known anonymity network that disguises your identity by routing your web traffic through a worldwide series of relays and nodes. It also gives you the ability to host "Tor hidden services" built on top of the network, known as ".onion sites."
 # I2P 
-[i2p](https://geti2p.net) I2P is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
+[I2P](https://geti2p.net) is an anonymous overlay network - a network within a network. It is intended to protect communication from dragnet surveillance and monitoring by third parties such as ISPs.
 I2P is used by many people who care about their privacy: activists, oppressed people, journalists and whistleblowers, as well as the average person.
 No network can be "perfectly anonymous". The continued goal of I2P is to make attacks more and more difficult to mount. Its anonymity will get stronger as the size of the network increases and with ongoing academic review.
 I2P is available on desktops, embedded systems (like the Raspberry Pi) and Android phones. Help spread the word! 
 # Freenet 
-[Freenet](https://freenetproject.org) Freenet is a peer-to-peer platform for censorship-resistant communication and publishing. Freenet Features Browse websites, post on forums, and publish files within Freenet with strong privacy protections.
+[Freenet](https://freenetproject.org) is a peer-to-peer platform for censorship-resistant communication and publishing. Freenet Features Browse websites, post on forums, and publish files within Freenet with strong privacy protections.
 # ZeroNet 
 https://zeronet.io Open, free and uncensorable websites,
 using Bitcoin cryptography and BitTorrent network
