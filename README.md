@@ -5,7 +5,7 @@ download the software from).
 If you have knowledge of others, please add to the list!
 
 # Tor 
-https://torproject.org
+https://torproject.org - Tor (The Onion Router) is a well known anonymity network that disguises your identity by routing your web traffic through a worldwide series of relays and nodes. It also gives you the ability to host "Tor hidden services" built on top of the network, known as ".onion sites."
 # I2P 
 https://geti2p.net 
 # Freenet 
