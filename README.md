@@ -52,7 +52,7 @@ At beacon the DIY (Do It Yourself) idea is in the foreground. Every node in the 
 
 Applications of this wireless networking device include backbone of free, public, and community networks, individual and corporate Internet connectivity, and also home and building security. High reliability and availability linking is possible in combination with WiFi devices. The Twibright Ronja datalink can network neighbouring houses with cross-street ethernet access, solve the last mile problem for ISP’s, or provide a link layer for fast neighbourhood mesh networks. 
 # Coova 
-https://coova.github.io/
+[Coova](https://coova.github.io/) is an open-source software access controller for captive portal (UAM) and 802.1X access provisioning, based on the popular (but now defunct) ChilliSpot project, and is actively maintained by an original ChilliSpot contributor. CoovaChilli is released under the GNU General Public 
 # OpenNIC 
 [OpenNIC](https://www.opennic.org/) An organization of hobbyists who run an alternative DNS network, also provides access to domains not administered by ICANN. 
 # Babel 
