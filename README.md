@@ -2,9 +2,7 @@
 
 This is a list of "darknets," or anonymity networks, wireless mesh networks, and P2P networks that we currently know of (and where to 
 download the software from). 
-If you have knowledge of others, please add to the list!
- **Note few of these sites and link may cause potential harm to you and these networks may contain illegal stuffs but we are not responsible for it so visit at your own risk**
- __most of the discription written here are taken from there home or about page and i had  not used all of them personally so can't guarantee anything about these networks vist at your own risk__ 
+If you have knowledge of others, please comment on report section or go for a pull request.
 # Tor 
 [Tor](https://torproject.org)  (The Onion Router) is a well known anonymity network that disguises your identity by routing your web traffic through a worldwide series of relays and nodes. It also gives you the ability to host "Tor hidden services" built on top of the network, known as ".onion sites."
 # I2P 
@@ -103,3 +101,6 @@ to make the web faster, safer, and more open.
 # Blockstack 
 [Blockstack](https://blockstack.org/) is a new internet for decentralized apps where users own their data.
 A browser is all that’s needed to get started.
+
+
+**Note the discription about these networks are taken from there home page and visit at your own risk most of the networks i have not used yet!**
