@@ -24,15 +24,16 @@ https://dn42.net/Home dn42 is a big dynamic VPN, which employs Internet technolo
 A number of services are provided on the network: see internal (only available from within dn42). Also, dn42 is interconnected with other networks, such as ChaosVPN or some Freifunk networks.
 # Netsukuku (discontinued)
 # Riffle 
-http://resources.infosecinstitute.com/riffle-anonymity-network/
+[Riffle](http://resources.infosecinstitute.com/riffle-anonymity-network/) It is just not any network; it is an anonymity network whose prototype has been developed by Massachusetts Institute of Technology (MIT) and the École Polytechnique Fédérale de Lausanne (EPFL). It is promised to be both bandwidth and computation efficient which will allow clients from low bandwidth to connect and will allow servers to serve more clients.
 # Marabunta 
-http://marabunta.laotracara.com/english.php
+[Marabunta](http://marabunta.laotracara.com/english.php) It is a P2P platform for information exchanging among nodes in an anonymous way based on several communication algorithms called "Order and Chaos" which can be found in massive social organizations such as ant colonys. 
 # CG-DNS 
-https://secure.cryptohippie.com/
+[Cryptohippie](https://secure.cryptohippie.com/) team has been protecting online lives for more than a decade. We provide the best protection available and combine it with the best customer service in the business. 
 # Secure Scuttlebutt Consortium 
 https://github.com/ssbc
 # B.A.T.M.A.N. (Better Approach to Mobile Ad-Hoc Networking) 
-https://www.open-mesh.org/projects/open-mesh/wiki
+[B.A.T.M.A.N. (Better Approach to Mobile Ad-Hoc Networking)](https://www.open-mesh.org/projects/open-mesh/wiki) 
+is a routing protocol for multi-hop ad-hoc mesh networks. This is the main development website, we have source code, binary packages, documentation and further information available on the official site. 
 # Roofnet (discontinued)
 # cjdns 
 https://github.com/cjdelisle/cjdns
