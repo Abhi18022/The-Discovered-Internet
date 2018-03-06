@@ -18,7 +18,7 @@ using Bitcoin cryptography and BitTorrent network
 # GNUnet 
 [GNUnet](https://gnunet.org/) is an alternative network stack for building secure, decentralized and privacy-preserving distributed applications. Our goal is to replace the old insecure Internet protocol stack. Starting from an application for secure publication of files, it has grown to include all kinds of basic protocol components and applications towards the creation of a GNU internet.
 # dn42 
-[dn42](https://dn42.net/Home) dn42 is a big dynamic VPN, which employs Internet technologies (BGP, whois database, DNS, etc). Participants connect to each other using network tunnels (GRE, OpenVPN, Tinc, IPsec) and exchange routes thanks to the Border Gateway Protocol. Network addresses are assigned in the 172.20.0.0/14 range and private AS numbers are used (see registry) as well as IPv6 addresses from the ULA-Range (fd00::/8) - see FAQ.
+[dn42](https://dn42.net/Home) is a big dynamic VPN, which employs Internet technologies (BGP, whois database, DNS, etc). Participants connect to each other using network tunnels (GRE, OpenVPN, Tinc, IPsec) and exchange routes thanks to the Border Gateway Protocol. Network addresses are assigned in the 172.20.0.0/14 range and private AS numbers are used (see registry) as well as IPv6 addresses from the ULA-Range (fd00::/8) - see FAQ.
 
 A number of services are provided on the network: see internal (only available from within dn42). Also, dn42 is interconnected with other networks, such as ChaosVPN or some Freifunk networks.
 # Netsukuku (discontinued)
