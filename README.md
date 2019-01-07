@@ -3,6 +3,8 @@
 This is a list of "darknets," or anonymity networks, wireless mesh networks, and P2P networks that we currently know of (and where to 
 download the software from). 
 If you have knowledge of others, please comment on report section or go for a pull request.
+# Solid 
+[Solid](http://solid.inrupt.com/) Solid was created by the inventor of the World Wide Web, Sir Tim Berners-Lee. Its mission is to reshape the web as we know it. Solid will foster a new breed of applications with capabilities above and beyond anything that exists today.
 # Tor 
 [Tor](https://torproject.org)  (The Onion Router) is a well known anonymity network that disguises your identity by routing your web traffic through a worldwide series of relays and nodes. It also gives you the ability to host "Tor hidden services" built on top of the network, known as ".onion sites."
 # I2P 
