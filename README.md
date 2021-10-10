@@ -19,6 +19,11 @@ I2P is available on desktops, embedded systems (like the Raspberry Pi) and Andro
 using Bitcoin cryptography and BitTorrent network
 # GNUnet 
 [GNUnet](https://gnunet.org/) is an alternative network stack for building secure, decentralized and privacy-preserving distributed applications. Our goal is to replace the old insecure Internet protocol stack. Starting from an application for secure publication of files, it has grown to include all kinds of basic protocol components and applications towards the creation of a GNU internet.
+
+# Skynet
+[https://siasky.net/](Skynet) is a hosting platform that makes it easy to join the decentralized internet movement. It dais an open protocol and toolkit for creating a better web — one built on decentralized storage and applications. Features user-owned personal data, persistent identity across apps, and censorship-resistance.
+
+
 # dn42 
 [dn42](https://dn42.net/Home) is a big dynamic VPN, which employs Internet technologies (BGP, whois database, DNS, etc). Participants connect to each other using network tunnels (GRE, OpenVPN, Tinc, IPsec) and exchange routes thanks to the Border Gateway Protocol. Network addresses are assigned in the 172.20.0.0/14 range and private AS numbers are used (see registry) as well as IPv6 addresses from the ULA-Range (fd00::/8) - see FAQ.
 
